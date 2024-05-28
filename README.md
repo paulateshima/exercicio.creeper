@@ -1,7 +1,7 @@
 # Exercício Creeper
 Exercício Creeper do Curso - JavaScript e HTML: pratique lógica com desenhos, animações e um jogo.
 
-Esse exercício tem duas partes: a primeira parte é uma atividade mão na massa. Depois de realizar essa primeira etapa, você deve responder ao exercício de única escolha. Vamos lá? O Johann é um menino de 11 anos e adora jogar Minecraft. Minecraft é aquele jogo onde você constrói um mundo com blocos, como se fosse um Lego virtual. Ele gosta tanto que pediu um pôster de uma das personagens principais do jogo: o Creeper. O Creeper na verdade é um monstro (que explode ao se aproximar de um jogador) e tem mais ou menos essa cara:
+O Johann é um menino de 11 anos e adora jogar Minecraft. Minecraft é aquele jogo onde você constrói um mundo com blocos, como se fosse um Lego virtual. Ele gosta tanto que pediu um pôster de uma das personagens principais do jogo: o Creeper. O Creeper na verdade é um monstro (que explode ao se aproximar de um jogador) e tem mais ou menos essa cara:
 
 ![image](https://github.com/paulateshima/projeto.creeper/assets/170154538/d50e6d56-9232-46c3-9d29-728131d8cb8e)
 
